@@ -10,11 +10,11 @@
 
 - start by cloning this repository by running:
 
-- git@github.com:ismailakinkunmi/math-magicians-setup.git
+- git@github.com:ismailakinkunmi/book-store.git
 
 - cd to the folder
 
-- cd Project-math-magicians-setup
+- cd Project book-store
 
 - npm install
 
