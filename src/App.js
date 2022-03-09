@@ -1,8 +1,9 @@
-import React from 'react';
-import { Route, Routes } from 'react-router-dom';
-import Book from './components/Book';
-import Categories from './components/Categories';
-import Navbar from './components/Navbar';
+/* eslint-disable import/extensions */
+import React from "react";
+import { Route, Routes } from "react-router-dom";
+import Book from "./components/Book";
+import Categories from "./components/Categories";
+import Navbar from "./components/Navbar";
 
 const App = () => (
   <>
