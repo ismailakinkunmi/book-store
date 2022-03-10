@@ -1,17 +1,17 @@
-import React from 'react';
-import { NavLink } from 'react-router-dom';
+import React from "react";
+import { NavLink } from "react-router-dom";
 
 export default function Navbar() {
   const links = [
     {
       id: 1,
-      path: '/',
-      text: 'Book',
+      path: "/",
+      text: "Book",
     },
     {
       id: 2,
-      path: '/categories',
-      text: 'Categories',
+      path: "/categories",
+      text: "Categories",
     },
   ];
 
