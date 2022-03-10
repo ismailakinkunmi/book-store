@@ -2,11 +2,11 @@ import React from "react";
 import Form from "./Form";
 import Bookcard from "./Bookcard";
 
-export default function book() {
-  return (
-    <div>
-      <Bookcard />
-      <Form />
-    </div>
-  );
-}
+const book = () => (
+  <div>
+    <Bookcard />
+    <Form />
+  </div>
+);
+
+export default book;
