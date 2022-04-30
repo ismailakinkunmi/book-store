@@ -1,22 +1,21 @@
-# Math-Magician-Setup
+# BookStore CMS
 
 ## Tecnologies Used
 
 - React
-- Eslint
-- Stylelint
-- Babel
-- Webpack
+- Redux
+- CSS
+- JSX
 
 ## Usage
 
 - start by cloning this repository by running:
 
-- git@github.com:ismailakinkunmi/math-magicians-setup.git
+- git@github.com:ismailakinkunmi/book-store.git
 
 - cd to the folder
 
-- cd Project-math-magicians-setup
+- cd Project book-store
 
 - npm install
 
@@ -46,4 +45,4 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-Hat tip 👒 to microverse, code reviewers and my coding partners for the support.
+Hat tip 👒 to microverse, code reviewers and my coding partners for there support.
