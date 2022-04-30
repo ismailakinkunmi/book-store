@@ -5,6 +5,7 @@
 - React
 - Redux
 - CSS
+- JSX
 
 ## Usage
 
